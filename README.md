@@ -1,4 +1,4 @@
-# cracking-password-JTR-networkwalks-tool-
+# Cracking-Password-JTR-Networkwalks-Tool-
 learn how to crack password of a secure pdf.
 
 
@@ -11,9 +11,10 @@ Download Johnny GUI from Google drive : https://drive.google.com/drive/u/1/folde
 After install Johnny , open Johnny. Click on settings & browse: (select John.exe)
 
 ![image alt](https://github.com/tasinprstu-art/cracking-password-JTR-networkwalks-tool-/blob/main/Screenshot%202026-11-21%20022234.png?raw=true)
+<br><br><br>
+&nbsp;
 
-
-
+# Module 1 
 
 ## Step 1 : 
 Open the hash website & upload pdf file to find its hash:
@@ -35,3 +36,8 @@ Click on 'Start new attack'. Your PDF file password will be cracked.Now we can u
 Here is the PDF file :
 
 ![image alt](https://github.com/tasinprstu-art/cracking-password-JTR-networkwalks-tool-/blob/main/Screenshot%202026-11-21%20030644.png?raw=true)
+
+
+&nbsp;
+
+# Module 2 
