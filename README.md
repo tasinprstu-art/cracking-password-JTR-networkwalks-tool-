@@ -27,4 +27,5 @@ Browse the PDF file and click on Upload. Select and copy the hash value. Save th
 
 ## Step 2 : 
 Open Johnny again . Click on 'Open password file' . Select the hash txt file .
-![image alt](
+
+![image alt](https://github.com/tasinprstu-art/cracking-password-JTR-networkwalks-tool-/blob/main/Screenshot%202026-11-21%20024731.png?raw=true)
