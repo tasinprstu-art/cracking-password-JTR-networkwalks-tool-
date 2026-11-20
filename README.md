@@ -33,4 +33,5 @@ Open Johnny again . Click on 'Open password file' . Select the hash txt file .
 
 Click on 'Start new attack'. Your PDF file password will be cracked.Now we can use this password to open PDF file.
 Here is the PDF file :
+
 ![image alt](https://github.com/tasinprstu-art/cracking-password-JTR-networkwalks-tool-/blob/main/Screenshot%202026-11-21%20030644.png?raw=true)
