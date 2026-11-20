@@ -23,3 +23,7 @@ https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php
 
 
 Browse the PDF file and click on Upload. Select and copy the hash value. Save the hash value as text file.
+
+
+## Step 2 : 
+
