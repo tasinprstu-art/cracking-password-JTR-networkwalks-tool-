@@ -56,3 +56,5 @@ Copy the full hash value.
 ## Step 3 :
 Open the Networkwalks Password Cracker in your web browser: https://networkwalks.com/password-cracker/
 
+Paste the hash value into the Password Cracker and start the attack. The tool will try different
+passwords until it finds a match.
