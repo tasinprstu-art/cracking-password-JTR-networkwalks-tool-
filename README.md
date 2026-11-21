@@ -41,3 +41,4 @@ Here is the PDF file :
 &nbsp;
 
 # Module 2 
+Open the Networkwalks Hash Calculator in your web browser: https://networkwalks.com/hash-calculator/
