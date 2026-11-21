@@ -16,6 +16,8 @@ After install Johnny , open Johnny. Click on settings & browse: (select John.exe
 
 # Module 1 
 
+Password cracking with John the Ripper tool.
+
 ## Step 1 : 
 Open the hash website & upload pdf file to find its hash:
 https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php
@@ -41,6 +43,8 @@ Here is the PDF file :
 &nbsp;
 
 # Module 2 
+
+Password cracking with Networkwalks web-based Hash calculator and Password Cracking tool.
 
 ## Step 1 :
 Open the Networkwalks Hash Calculator in your web browser: https://networkwalks.com/hash-calculator/
