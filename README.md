@@ -52,3 +52,7 @@ value that starts with $pdf$...
 ![image alt](https://github.com/tasinprstu-art/cracking-password-JTR-networkwalks-tool-/blob/main/Screenshot%202026-11-21%20105814.png?raw=true)
 
 Copy the full hash value.
+
+## Step 3 :
+Open the Networkwalks Password Cracker in your web browser: https://networkwalks.com/password-cracker/
+
