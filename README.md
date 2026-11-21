@@ -48,3 +48,6 @@ Open the Networkwalks Hash Calculator in your web browser: https://networkwalks.
 ## Step 2 :
 Upload the locked PDF file to the Hash Calculator. The tool will read the file and give you the hash
 value that starts with $pdf$...
+
+![image alt](
+![image alt](
