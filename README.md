@@ -41,4 +41,10 @@ Here is the PDF file :
 &nbsp;
 
 # Module 2 
+
+## Step 1 :
 Open the Networkwalks Hash Calculator in your web browser: https://networkwalks.com/hash-calculator/
+
+## Step 2 :
+Upload the locked PDF file to the Hash Calculator. The tool will read the file and give you the hash
+value that starts with $pdf$...
