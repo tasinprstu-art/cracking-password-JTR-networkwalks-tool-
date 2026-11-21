@@ -60,3 +60,9 @@ Paste the hash value into the Password Cracker and start the attack. The tool wi
 passwords until it finds a match.
 
 ![image alt](https://github.com/tasinprstu-art/cracking-password-JTR-networkwalks-tool-/blob/main/Screenshot%202026-11-21%20111052.png?raw=true)
+
+Wait for the tool to finish. The cracked password will be shown on the screen.
+
+
+## Step 4 :
+Open the locked PDF file and enter the cracked password.The PDF file will open.
