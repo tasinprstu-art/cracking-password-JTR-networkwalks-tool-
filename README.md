@@ -65,6 +65,6 @@ Wait for the tool to finish. The cracked password will be shown on the screen.
 
 
 ## Step 4 :
-Open the locked PDF file and enter the cracked password.The PDF file will open.
+Open the locked PDF file and enter the cracked password. The PDF file will open.
 
 ![image alt ](https://github.com/tasinprstu-art/cracking-password-JTR-networkwalks-tool-/blob/main/Screenshot%202026-11-21%20111052.png?raw=true)
